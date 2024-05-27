@@ -1,5 +1,7 @@
 # Projeto-Artigo-DIO
 
+Link para o Artigo: https://web.dio.me/articles/explorando-o-futuro-5-livros-de-ficcao-cientifica-que-desvendam-o-fascinante-mundo-das-inteligencias-artificiais?back=%2Farticles&open-modal=true&page=1&order=oldest
+
 IAs utilizadas: 
   - ChatGPT;
   - Lexica.art;
@@ -15,4 +17,4 @@ Propts Utilizados:
       
       > Inclua uma sinopse sobre o livro
       
-      > Coloque o nome do autor, a data de publicação e o número de páginas
+      > Coloque o nome do autor e a data de publicação
